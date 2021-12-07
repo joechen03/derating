@@ -8,7 +8,8 @@ Ex.
 
 Input：BOM.csv
 
-Lv|Direct BOM	  |Main Part	  |Rev.	|Seq.	|Part Full Desc.                                                                      |Qty.|Subsitution Part	|Inst. Point	|HSF Property	
+Lv|Direct BOM	  |Main Part	  |Rev.	|Seq.	|Part Full Desc.                                                                      |Qty.|Subsitution Part	|Inst. Point	|HSF Property
+
 1	|1395A3078401	|6019B0460301	|A02	|1    |IC,SHUNT REGULATOR,ADJ,SOT-23F,3P,TR                                                 |1   |	-	              |PU895        |	HalogenFree+RoHS2
 
 1	|1395A3078401	|6012B1055302	|A01	|2    |CONNECTOR,POWER CARD EDGE,7.5mm,FL,9A,BLK,50P,2.54mm,90D,PIP,TRAY,LCP,GXT,30U,3.5mm	|2	 |-	                |PJ768,PJ775  |	RoHS2
