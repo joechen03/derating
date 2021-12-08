@@ -8,24 +8,13 @@ Ex.
 
 Input：BOM.csv
 
-Lv|Direct BOM	  |Main Part	  |Rev.	|Seq.	|Part Full Desc.                                                                      |Qty.|Subsitution Part	|Inst. Point	|HSF Property
-
-1	|1395A3078401	|6019B0460301	|A02	|1    |IC,SHUNT REGULATOR,ADJ,SOT-23F,3P,TR                                                 |1   |	-	              |PU895        |	HalogenFree+RoHS2
-
-1	|1395A3078401	|6012B1055302	|A01	|2    |CONNECTOR,POWER CARD EDGE,7.5mm,FL,9A,BLK,50P,2.54mm,90D,PIP,TRAY,LCP,GXT,30U,3.5mm	|2	 |-	                |PJ768,PJ775  |	RoHS2
+![image](https://user-images.githubusercontent.com/25897645/145237602-41c12a3b-c4c1-47a0-a89b-3ab7fff52d0c.png)
 
 Output：BOM_output.csv
 
 Page：MicroCircuit
 
-No. |Ref.Desig.	| P/N	        |Component description
-
-1	  |PU895	    |6019B0460301	|IC,SHUNT REGULATOR,ADJ,SOT-23F,3P,T
+![image](https://user-images.githubusercontent.com/25897645/145238329-7feab228-13b3-4b66-9b4f-3ab248230ed2.png)
 
 Page：Connector
-
-No. |Ref.Desig.	| P/N	        |Component description
-
-1	  |PJ768	    |6012B1055302	|CONNECTOR,POWER CARD EDGE,7.5mm,FL,9A,BLK,50P,2.54mm,90D,PIP,TRAY,LCP,GXT,30U,3.5mm
-
-2	  |PJ775	    |6012B1055302	|CONNECTOR,POWER CARD EDGE,7.5mm,FL,9A,BLK,50P,2.54mm,90D,PIP,TRAY,LCP,GXT,30U,3.5mm
+![image](https://user-images.githubusercontent.com/25897645/145238457-677cf405-28ae-4906-a351-084404997cbf.png)
